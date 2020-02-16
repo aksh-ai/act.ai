@@ -20,7 +20,7 @@ Once the waste gets filled up the bot moves towards the nearby collection centre
 
 ### Work Flow
 
-![Flow Chart](./images/flow_chart.png?s=4096)
+![Flow Chart](./images/flow_chart.png?v=6&s=4096)
 
 ### Use Case
 
