@@ -20,11 +20,11 @@ Once the waste gets filled up the bot moves towards the nearby collection centre
 
 ### Work Flow
 
-![Flow Chart](images/flow_chart.png =800x600)
+![Flow Chart](images/flow_chart.png =1280x720)
 
 ### Use Case
 
-![Use Case Diagram](images/trash_bot_use_case.png =800x600)
+![Use Case Diagram](images/trash_bot_use_case.png)
 
 ## About
 
