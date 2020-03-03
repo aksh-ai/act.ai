@@ -26,6 +26,10 @@ Once the waste gets filled up the bot moves towards the nearby collection centre
 
 ![Use Case Diagram](./images/trash_bot_use_case.png)
 
+### Basic Concept Design 
+
+![Design](./images/actai3.gif)
+
 ## About
 
 This product was developed by students belonging to various departments of St. Joseph's College of Engineering, Chennai, India.
