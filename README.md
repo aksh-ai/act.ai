@@ -26,7 +26,7 @@ Once the waste gets filled up the bot moves towards the nearby collection centre
 
 ![Use Case Diagram](./images/trash_bot_use_case.png)
 
-### Basic Concept Design 
+### Concept Design 
 
 ![Design](./images/actai3.gif)
 
